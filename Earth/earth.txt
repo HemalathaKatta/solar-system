@@ -1,1 +1,2 @@
 Earth is the 3rd planet.
+Earth has 1 moon.
