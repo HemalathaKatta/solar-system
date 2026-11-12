@@ -1,2 +1,3 @@
 Earth is the 3rd planet.
 Earth is the only planet with life.
+Earth has 1 moon.
